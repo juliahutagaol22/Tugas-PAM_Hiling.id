@@ -12,6 +12,10 @@ dengan memasukkan inputan lokasi keberangkatan, lokasi tujuan dan tanggal Kebera
 • Hasil Pencarian untuk menampilkan penerbangan yang sesuai dengan inputan yang dimasukkan, <br>
 pada halaman ini semua data yang mirip dengan inputan akan di tampilkan <br>
 
+<h3>Link Download Aplikasi</h3>
+https://drive.google.com/file/d/1M7TcQCn0cKKviKez8mBAbgHMvyRpYJtM/view?usp=sharing
+
+
 <h2>Tampilan Aplikasi </h2>
 <img src="https://github.com/juliahutagaol22/Tugas-PAM_Hiling.id/blob/main/Screenshoot/Tampilan_utama.jpeg?" width="30%" height="30%">
 <img src="https://github.com/juliahutagaol22/Tugas-PAM_Hiling.id/blob/main/Screenshoot/No_Rute.jpeg?"width="30%" height="30%">
